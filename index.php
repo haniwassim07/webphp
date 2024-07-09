@@ -28,7 +28,7 @@
 </head>
 <body>
     <div class="container">
-        <h1><?php echo "Hello Wassim "hala madrid"; ?></h1>
+        <h1><?php echo "Hello Wassim", hala madrid; ?></h1>
     </div>
 </body>
 </html>
